@@ -1,1 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<movies>
+	<question question="Ce gen de filme iti place sa urmaresti?">
+		<answer answer="Actiune">
+			<question question="Alegeti una din categoriile de rating">
+				<answer answer = "Sub nota 8">
+					<recomandation>Ti-am gasit filmul dorit!</recomandation>
+				</answer>
+				<answer answer = "Peste nota 8">
+				</answer>
+			</question>
+		</answer>
+		<answer answer="Comedie">
+		</answer>
+		<answer answer="Drama">
+		</answer>
+	</question>
+</movies>
