@@ -3,9 +3,9 @@
 	<question question="Ce gen de filme iti place sa urmaresti?">
 		<answer answer="Actiune">
 			<question question="Alegeti una din categoriile de rating">
-				<answer answer = "Sub nota 8">
-					<recomandation>Ti-am gasit filmul dorit!</recomandation>
-				</answer>
+				<finalAnswer answer = "Sub nota 8">
+					<recomandation title="Titanic" imdbRating = "8.2" imdbURL ="www.imdb.com/Titanic" photo = "a.jpg">Descrtiption</recomandation>
+				</finalAnswer>
 				<answer answer = "Peste nota 8">
 				</answer>
 			</question>
