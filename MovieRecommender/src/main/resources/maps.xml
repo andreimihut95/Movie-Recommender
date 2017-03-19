@@ -1,8 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <mappings>
-  <map id = "Ce gen de filme iti plac?">q1</map>
-  <map id = "Actiune">r11</map>
-  <map id = "Comedie">r12</map>
-  <map id = "Drama">r13</map>
+
+
+	<map id="Ce gen de filme iti plac?">q1</map>
+	<map id="ACTIUNE">r11</map>
+	<map id="COMEDIE">r12</map>
+	<map id="DRAMA">r13</map>
+
+	<map id="Alege una din categoriile de rating">q2</map>
+	<map id="Sub nota 8">r21</map>
+	<map id="Peste nota 8">r22</map>
+
+
+	<map id="Alege din urmatoarele variante">q3</map>
+	<map id="Film artistic">r31</map>
+	<map id="Serial">r32</map>
+
+	<map id="A castigat oscar?">q4</map>
+	<map id="Da">r41</map>
+	<map id="Nu">r42</map>
+
+	<map id="Alege din durata filmului">q5</map>
+	<map id="Intre 1:30 si 2:30">r51</map>
+	<map id="Peste 2:30">r52</map>
+
+
+
+
+	<map id="Cate sezoane are">q6</map>
+	<map id="Sub 5">r61</map>
+	<map id="Peste 5">r62</map>
 </mappings>

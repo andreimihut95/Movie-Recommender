@@ -129,8 +129,8 @@ public class MovieRecommender {
 
 						Movie movie = new Movie(title, imdbURL, Double.valueOf(imdbRating), description, photoURL);
 						recommendations.add(movie);
-						currentNode = currentNode.selectSingleNode(MovieConstants.RECOMMENDATION_ELEMENT);
 					}
+					currentNode = currentNode.selectSingleNode(MovieConstants.RECOMMENDATION_ELEMENT);
 
 				} else {
 					System.out.println(getCorruptXMLMessage());
@@ -148,6 +148,7 @@ public class MovieRecommender {
 			System.out.println("The following movies are recommended for you: ");
 			for (Movie recommendation : recommendations) {
 				System.out.println(recommendation);
+				System.out.println("--------------------------------------------------------");
 			}
 		} else {
 			System.out.println("No recommendations for you!");

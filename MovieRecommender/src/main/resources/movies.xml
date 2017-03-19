@@ -1,13 +1,512 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <movies>
 	<question question="q1">
-		<finalAnswer answer="r11">
-			<recommendation title="Titanic" imdbRating="8.2"
-				imdbURL="www.imdb.com/Titanic" photo="a.jpg">Descrtiption</recommendation>
-		</finalAnswer>
-		<answer answer="r12">
+		<answer answer="r11">
+			<question question="q2">
+				<answer answer="r21">
+					<question question="q3">
+						<answer answer="r31">
+							<question question="q4">
+								<answer answer="r41">
+									<question question="q5">
+										<finalAnswer answer="r51">
+											<recommendation title="The Last of the Mohicans "
+												imdbRating="7.8" imdbURL="http://www.imdb.com/title/tt0104691/"
+												photo="https://images-na.ssl-images-amazon.com/images/M/MV5BMzU4YzI3ODItYzY3NS00ZTQ2LTg2YzUtNTdjMTVlYjVkYTE4XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+											dgfdf
+											<recommendation title="American Sniper "
+												imdbRating="7.3"
+												imdbURL="http://www.imdb.com/title/tt2179136/?ref_=nv_sr_1"
+												photo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTkxNzI3ODI4Nl5BMl5BanBnXkFtZTgwMjkwMjY4MjE@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+											<recommendation
+												title="Master and Commander: The Far Side of the World  "
+												imdbRating="7.4"
+												imdbURL="http://www.imdb.com/title/tt0311113/?ref_=nv_sr_1"
+												photo="https://images-na.ssl-images-amazon.com/images/M/MV5BMjA5NjYyMDM5NV5BMl5BanBnXkFtZTYwOTU5MDY2._V1_UX182_CR0,0,182,268_AL_.jpg" />
+										</finalAnswer>
+										<finalAnswer answer="r52">
+											<recommendation title="The Equalizer"
+												imdbRating="7.2"
+												imdbURL="http://www.imdb.com/title/tt0455944/?ref_=nv_sr_1"
+												photo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ2MzE2NTk0NF5BMl5BanBnXkFtZTgwOTM3NTk1MjE@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+											<recommendation title="X-Men" imdbRating="7.4"
+												imdbURL="http://www.imdb.com/title/tt0120903/?ref_=nv_sr_4"
+												photo="https://images-na.ssl-images-amazon.com/images/M/MV5BMzU4ODZlYTMtZDg4Yi00OGUzLWEzYjUtZjE2ZmM0NTZkYTQ2XkEyXkFqcGdeQXVyNjExODE1MDc@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+											<recommendation title="Hot Fuzz" imdbRating="7.9"
+												imdbURL="http://www.imdb.com/title/tt0425112/?ref_=nv_sr_1"
+												photo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTIxODg2NDU1MF5BMl5BanBnXkFtZTcwOTc3MDM0MQ@@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+										</finalAnswer>
+									</question>
+
+
+								</answer>
+								<answer answer="r42">
+									<question question="q5">
+										<finalAnswer answer="r51">
+											<recommendation
+												title="Pirates of the Carraibean :Dead Mom's Chest "
+												imdbRating="7.3"
+												imdbURL="http://www.imdb.com/title/tt0383574/?ref_=nv_sr_4"
+												photo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTcwODc1MTMxM15BMl5BanBnXkFtZTYwMDg1NzY3._V1_UX182_CR0,0,182,268_AL_.jpg" />
+										</finalAnswer>
+										<finalAnswer answer="r52">
+											<recommendation title="Armageddon" imdbRating="6.6"
+												imdbURL="http://www.imdb.com/title/tt0120591/?ref_=nv_sr_2"
+												photo="https://images-na.ssl-images-amazon.com/images/M/MV5BMGM0NzE2YjgtZGQ4YS00MmY3LTg4ZDMtYjUwNTNiNTJhNTQ5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY268_CR2,0,182,268_AL_.jpg" />
+											<recommendation title="The Lone Ranger"
+												imdbRating="6.5"
+												imdbURL="http://www.imdb.com/title/tt1210819/?ref_=nv_sr_1"
+												photo="https://images-na.ssl-images-amazon.com/images/M/MV5BMjI3Mjk5MTUxOV5BMl5BanBnXkFtZTcwNTMyNzY3OQ@@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+											<recommendation title="Superman Returns"
+												imdbRating="6.1"
+												imdbURL="http://www.imdb.com/title/tt0348150/?ref_=nv_sr_1"
+												photo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTU3NzA5MjI0Nl5BMl5BanBnXkFtZTcwMTEwNzMzMQ@@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+										</finalAnswer>
+									</question>
+								</answer>
+
+
+							</question>
+						</answer>
+						<answer answer="r32">
+							<question question="q6">
+								<finalAnswer answer="r61">
+									<recommendation title="Nu exista" imdbRating=""
+										imdbURL="" photo="" />
+								</finalAnswer>
+
+								<finalAnswer answer="6.2 bigger then 5 sezoane">
+									<recommendation title="CSI: NY" imdbRating="7.0"
+										imdbURL="http://www.imdb.com/title/tt0395843/?ref_=nv_sr_1"
+										photo="https://images-na.ssl-images-amazon.com/images/M/MV5BMzQzNDZiODktZDFjOS00YWU2LWJlOTAtZGUzMzg1ZmRiODAxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY268_CR12,0,182,268_AL_.jpg" />
+									<recommendation title="CSI: Miami" imdbRating="6.4"
+										imdbURL="http://www.imdb.com/title/tt0313043/?ref_=nv_sr_1"
+										photo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTc5Mjc5NDM3Ml5BMl5BanBnXkFtZTcwNDk0ODEzMQ@@._V1_UY268_CR7,0,182,268_AL_.jpg" />
+								</finalAnswer>
+							</question>
+						</answer>
+					</question>
+				</answer>
+				<answer answer="r22">
+					<question question="q3">
+						<answer answer="r31">
+							<question question="q4">
+								<answer answer="r41">
+									<question question="q5">
+										<finalAnswer answer="r51">
+											<recommendation title="The borne ultimatum"
+												imdbRating="8.1"
+												imdbURL="http://www.imdb.com/title/tt0440963/?ref_=nv_sr_1"
+												photo="https://images-na.ssl-images-amazon.com/images/M/MV5BNGNiNmU2YTMtZmU4OS00MjM0LTlmYWUtMjVlYjAzYjE2N2RjXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+											<recommendation title="Inception" imdbRating="8.8"
+												imdbURL="http://www.imdb.com/title/tt1375666/?ref_=nv_sr_1"
+												photo="https://images-na.ssl-images-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+											<recommendation title="Indiana Jones and the last cursade"
+												imdbRating="8.3"
+												imdbURL="http://www.imdb.com/title/tt0097576/?ref_=nv_sr_1"
+												photo="https://images-na.ssl-images-amazon.com/images/M/MV5BNGNiNmU2YTMtZmU4OS00MjM0LTlmYWUtMjVlYjAzYjE2N2RjXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+										</finalAnswer>
+										<finalAnswer answer="r52">
+											<recommendation title="Batman Begins"
+												imdbRating="8.3"
+												imdbURL="http://www.imdb.com/title/tt0372784/?ref_=nv_sr_3"
+												photo="https://images-na.ssl-images-amazon.com/images/M/MV5BNTM3OTc0MzM2OV5BMl5BanBnXkFtZTYwNzUwMTI3._V1_UX182_CR0,0,182,268_AL_.jpg" />
+											<recommendation title="District 9" imdbRating="8.0"
+												imdbURL="http://www.imdb.com/title/tt1136608/?ref_=nv_sr_1"
+												photo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTM4OTI1OTM5NF5BMl5BanBnXkFtZTcwMzk5MTU1Mg@@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+											<recommendation title="V for Vendetta"
+												imdbRating="8.2"
+												imdbURL="http://www.imdb.com/title/tt0434409/?ref_=nv_sr_1"
+												photo="https://images-na.ssl-images-amazon.com/images/M/MV5BOTI5ODc3NzExNV5BMl5BanBnXkFtZTcwNzYxNzQzMw@@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+										</finalAnswer>
+									</question>
+
+
+								</answer>
+								<answer answer="r42">
+									<question question="q5">
+										<finalAnswer answer="r51">
+											<recommendation title="Gladiator" imdbRating="8.5"
+												imdbURL="http://www.imdb.com/title/tt0172495/?ref_=nv_sr_1"
+												photo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTgwMzQzNTQ1Ml5BMl5BanBnXkFtZTgwMDY2NTYxMTE@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+											<recommendation title="The Dark Knight"
+												imdbRating="9.0"
+												imdbURL="http://www.imdb.com/title/tt0468569/?ref_=nv_sr_1"
+												photo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+										</finalAnswer>
+										<finalAnswer answer="r52">
+											<recommendation title="The Dark Knight Rises"
+												imdbRating="8.5"
+												imdbURL="http://www.imdb.com/title/tt1345836/?ref_=nv_sr_3"
+												photo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+
+
+										</finalAnswer>
+									</question>
+								</answer>
+
+
+							</question>
+						</answer>
+						<answer answer="r32">
+							<question question="q6">
+								<finalAnswer answer="r61">
+									<recommendation title="Prison Break" imdbRating="8.5"
+										imdbURL="http://www.imdb.com/title/tt0455275/?ref_=nv_sr_1"
+										photo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTg3NTkwNzAxOF5BMl5BanBnXkFtZTcwMjM1NjI5MQ@@._V1_UY268_CR0,0,182,268_AL_.jpg" />
+									<recommendation title="Chuck" imdbRating="8.2"
+										imdbURL="http://www.imdb.com/title/tt0934814/?ref_=nv_sr_2"
+										photo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_UY268_CR9,0,182,268_AL_.jpg" />
+								</finalAnswer>
+
+								<finalAnswer answer="r62">
+									<recommendation title="Nu exista" imdbRating=""
+										imdbURL="" photo="" />
+								</finalAnswer>
+							</question>
+						</answer>
+					</question>
+				</answer>
+			</question>
 		</answer>
+
+		<answer answer="r12">
+			<question question="q2">
+				<answer answer="r21">
+					<question question="q3">
+						<answer answer="r31">
+							<question question="q4">
+								<answer answer="r41">
+									<question question="q5">
+										<finalAnswer answer="r51">
+											<recommendation title="The Big Short"
+												imdbRating="7.8"
+												imdbURL="http://www.imdb.com/title/tt1596363/?ref_=nv_sr_1"
+												photo="http://www.imdb.com/title/tt1596363/mediaviewer/rm3249474304">""</recommendation>
+											<recommendation
+												title="Birdman or (The Unexpected Virtue of Ignorance)"
+												imdbRating="7.8"
+												imdbURL="http://www.imdb.com/title/tt2562232/?ref_=nv_sr_1"
+												photo="http://www.imdb.com/title/tt2562232/mediaviewer/rm3926180864?ref_=tt_ov_i">""</recommendation>
+											<recommendation title="Descendants"
+												imdbRating="6.4"
+												imdbURL="http://www.imdb.com/title/tt3440298/?ref_=nv_sr_3"
+												photo="http://www.imdb.com/title/tt3440298/mediaviewer/rm2412442880?ref_=tt_ov_i">""</recommendation>
+										</finalAnswer>
+										<finalAnswer answer="r52">
+											<recommendation title="Superbad" imdbRating="7.6"
+												imdbURL="http://www.imdb.com/title/tt0829482/?ref_=nv_sr_1"
+												photo="http://www.imdb.com/title/tt0829482/mediaviewer/rm1868010240?ref_=tt_ov_i">""</recommendation>
+											<recommendation title="The Nice Guys "
+												imdbRating="7.4"
+												imdbURL="http://www.imdb.com/title/tt3799694/?ref_=nv_sr_1"
+												photo="http://www.imdb.com/title/tt3799694/mediaviewer/rm2102452224?ref_=tt_ov_i">""</recommendation>
+											<recommendation title="The Hangover"
+												imdbRating="7.6"
+												imdbURL="http://www.imdb.com/title/tt1119646/?ref_=nv_sr_1"
+												photo="http://www.imdb.com/title/tt1119646/mediaviewer/rm3120597760?ref_=tt_ov_i">""</recommendation>
+										</finalAnswer>
+									</question>
+
+
+								</answer>
+								<answer answer="r42">
+									<question question="q5">
+										<finalAnswer answer="r51">
+											<recommendation title="Nu exista" imdbRating=""
+												imdbURL="" photo="">""</recommendation>
+										</finalAnswer>
+										<finalAnswer answer="r52">
+											<recommendation title="Nu exista" imdbRating=""
+												imdbURL="" photo="">""</recommendation>
+										</finalAnswer>
+									</question>
+								</answer>
+
+
+							</question>
+						</answer>
+						<answer answer="r32">
+							<question question="q6">
+								<finalAnswer answer="r61">
+									<recommendation title="The O.C" imdbRating="7.5"
+										imdbURL="http://www.imdb.com/title/tt0362359/?ref_=nv_sr_1"
+										photo="http://www.imdb.com/title/tt0362359/mediaviewer/rm124197120?ref_=tt_ov_i">""</recommendation>
+									<recommendation title="Raising Hope" imdbRating="8.0"
+										imdbURL="http://www.imdb.com/title/tt1615919/?ref_=nv_sr_1"
+										photo="http://www.imdb.com/title/tt1615919/mediaviewer/rm1492303104?ref_=tt_ov_i">""</recommendation>
+									<recommendation title="Joey" imdbRating="6.0"
+										imdbURL="http://www.imdb.com/title/tt0375355/?ref_=fn_al_tt_1"
+										photo="http://www.imdb.com/title/tt0375355/mediaviewer/rm445488384?ref_=tt_ov_i">""</recommendation>
+								</finalAnswer>
+
+								<finalAnswer answer="r62">
+									<recommendation title="Two and a Half Man"
+										imdbRating="7.1" imdbURL="http://www.imdb.com/title/tt0369179/?ref_=nv_sr_1"
+										photo="http://www.imdb.com/title/tt0375355/mediaviewer/rm445488384?ref_=tt_ov_i">""</recommendation>
+									<recommendation title="Weeds" imdbRating="8.0"
+										imdbURL="http://www.imdb.com/title/tt0439100/?ref_=nv_sr_1"
+										photo="http://www.imdb.com/title/tt0439100/mediaviewer/rm748130816?ref_=tt_ov_i">""</recommendation>
+									<recommendation title="3rd Rock From Sun"
+										imdbRating="7.8" imdbURL="http://www.imdb.com/title/tt0115082/?ref_=nv_sr_1"
+										photo="http://www.imdb.com/title/tt0115082/mediaviewer/rm1398159616?ref_=tt_ov_i">""</recommendation>
+								</finalAnswer>
+							</question>
+						</answer>
+					</question>
+				</answer>
+				<answer answer="r22">
+					<question question="q3">
+						<answer answer="r31">
+							<question question="q4">
+								<answer answer="r41">
+									<question question="q5">
+										<finalAnswer answer="r51">
+											<recommendation title="Utopia" imdbRating="8.5"
+												imdbURL="http://www.imdb.com/title/tt2384811/?ref_=nv_sr_1"
+												photo="http://www.imdb.com/title/tt2384811/mediaviewer/rm998949120?ref_=tt_ov_i">""</recommendation>
+											<recommendation title="Forest Gump"
+												imdbRating="8.5"
+												imdbURL="http://www.imdb.com/title/tt0109830/?ref_=nv_sr_2"
+												photo="http://www.imdb.com/title/tt0109830/mediaviewer/rm2864190720?ref_=tt_ov_i">""</recommendation>
+											<recommendation title="The Grand Budapest Hotel"
+												imdbRating="8.5"
+												imdbURL="http://www.imdb.com/title/tt2278388/?ref_=nv_sr_1"
+												photo="http://www.imdb.com/title/tt2278388/mediaviewer/rm1834474496?ref_=tt_ov_i">""</recommendation>
+										</finalAnswer>
+										<finalAnswer answer="r52">
+											<recommendation title="Dead Pool" imdbRating="6.4"
+												imdbURL="Deadpool" photo="Deadpool">""</recommendation>
+											<recommendation title="Snetch" imdbRating="6.4"
+												imdbURL="Snetch" photo="Snetch">""</recommendation>
+										</finalAnswer>
+									</question>
+
+
+								</answer>
+								<answer answer="r42">
+									<question question="q5">
+										<finalAnswer answer="r51">
+											<recommendation title="Cucu bau" imdbRating="8.2"
+												imdbURL="NA" photo="NA">""</recommendation>
+										</finalAnswer>
+										<finalAnswer answer="r52">
+											<recommendation title="The Wolf of the Wall Street"
+												imdbRating="8.2"
+												imdbURL="http://www.imdb.com/title/tt0993846/?ref_=nv_sr_1"
+												photo="http://www.imdb.com/title/tt0993846/mediaviewer/rm2842940160?ref_=tt_ov_i">""</recommendation>
+										</finalAnswer>
+									</question>
+								</answer>
+
+
+							</question>
+						</answer>
+						<answer answer="r32">
+							<question question="q6">
+								<finalAnswer answer="r61">
+									<recommendation title="Master of None "
+										imdbRating="8.2" imdbURL="http://www.imdb.com/title/tt4635276/?ref_=nv_sr_1"
+										photo="http://www.imdb.com/title/tt4635276/mediaviewer/rm2513691136?ref_=tt_ov_i">""</recommendation>
+									<recommendation title="Chuck " imdbRating="8.2"
+										imdbURL="http://www.imdb.com/title/tt0934814/?ref_=nv_sr_1"
+										photo="http://www.imdb.com/title/tt0934814/mediaviewer/rm3534195968?ref_=tt_ov_i">""</recommendation>
+									<recommendation title="Mr. Bean" imdbRating="8.2"
+										imdbURL="http://www.imdb.com/title/tt0096657/?ref_=nv_sr_1"
+										photo="http://www.imdb.com/title/tt0096657/mediaviewer/rm4056482304?ref_=tt_ov_i">""</recommendation>
+								</finalAnswer>
+
+								<finalAnswer answer="r62">
+									<recommendation title="Suits " imdbRating="8.2"
+										imdbURL="http://www.imdb.com/title/tt4635276/?ref_=nv_sr_1"
+										photo="http://www.imdb.com/title/tt4635276/mediaviewer/rm2513691136?ref_=tt_ov_i">""</recommendation>
+									<recommendation title="The Big Bang Theory "
+										imdbRating="8.2" imdbURL="http://www.imdb.com/title/tt1632701/?ref_=nv_sr_1"
+										photo="http://www.imdb.com/title/tt1632701/mediaviewer/rm1720503296?ref_=tt_ov_i">""</recommendation>
+
+								</finalAnswer>
+							</question>
+						</answer>
+					</question>
+				</answer>
+			</question>
+		</answer>
+
 		<answer answer="r13">
+			<question question="q2">
+				<answer answer="r21">
+					<question question="q3">
+						<answer answer="r31">
+							<question question="q4">
+								<answer answer="r41">
+									<question question="q5">
+										<finalAnswer answer="r51">
+											<recommendation title="Bridge of Spies"
+												imdbRating="7.6"
+												imdbURL="http://www.imdb.com/title/tt3682448/?ref_=nv_sr_1"
+												photo="https://images-na.ssl-images-amazon.com/images/M/MV5BMjIxOTI0MjU5NV5BMl5BanBnXkFtZTgwNzM4OTk4NTE@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+											<recommendation title="Mystic River"
+												imdbRating="8.0"
+												imdbURL="http://www.imdb.com/title/tt0327056/?ref_=nv_sr_3"
+												photo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTIzNDUyMjA4MV5BMl5BanBnXkFtZTYwNDc4ODM3._V1_UX182_CR0,0,182,268_AL_.jpg" />
+										</finalAnswer>
+										<finalAnswer answer="r52">
+											<recommendation title="Sicario" imdbRating="7.6"
+												imdbURL="http://www.imdb.com/title/tt3397884/?ref_=nv_sr_1"
+												photo="https://images-na.ssl-images-amazon.com/images/M/MV5BMjA5NjM3NTk1M15BMl5BanBnXkFtZTgwMzg1MzU2NjE@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+											<recommendation title="The Martian"
+												imdbRating="8.0"
+												imdbURL="http://www.imdb.com/title/tt3659388/?ref_=nv_sr_1"
+												photo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTc2MTQ3MDA1Nl5BMl5BanBnXkFtZTgwODA3OTI4NjE@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+											<recommendation title="Drive" imdbRating="7.8"
+												imdbURL="http://www.imdb.com/title/tt0780504/?ref_=nv_sr_1"
+												photo="https://images-na.ssl-images-amazon.com/images/M/MV5BZjY5ZjQyMjMtMmEwOC00Nzc2LTllYTItMmU2MzJjNTg1NjY0XkEyXkFqcGdeQXVyNjQ1MTMzMDQ@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+										</finalAnswer>
+									</question>
+
+
+								</answer>
+								<answer answer="r42">
+									<question question="q5">
+										<finalAnswer answer="r51">
+											<recommendation title="Titanic" imdbRating="7.7"
+												imdbURL="http://www.imdb.com/title/tt0120338/?ref_=nv_sr_1"
+												photo="https://images-na.ssl-images-amazon.com/images/M/MV5BMDdmZGU3NDQtY2E5My00ZTliLWIzOTUtMTY4ZGI1YjdiNjk3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+											<recommendation title="The reverand"
+												imdbRating="4.3"
+												imdbURL="http://www.imdb.com/title/tt1073240/?ref_=nv_sr_2"
+												photo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTQxOTEzMzM1MV5BMl5BanBnXkFtZTgwMDIwNjIwMTE@._V1_UY268_CR3,0,182,268_AL_.jpg" />
+
+										</finalAnswer>
+										<finalAnswer answer="r52">
+											<recommendation title="Alexander" imdbRating="5.5"
+												imdbURL="http://www.imdb.com/title/tt0346491/?ref_=nv_sr_5"
+												photo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTA1NDQ3OTY2NDVeQTJeQWpwZ15BbWU3MDI5MDc0MzM@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+											2">
+											<recommendation title="Meet Joe Black"
+												imdbRating="7.1"
+												imdbURL="http://www.imdb.com/title/tt0119643/?ref_=nv_sr_1"
+												photo="https://images-na.ssl-images-amazon.com/images/M/MV5BNTc0MzRmMTgtMTk4OS00MzdkLWJjNWMtZWJmZjlkYTI0YWRiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+
+										</finalAnswer>
+									</question>
+								</answer>
+
+
+							</question>
+						</answer>
+						<answer answer="r32">
+							<question question="q6">
+								<finalAnswer answer="r61">
+									<recommendation title="Flashforword" imdbRating="7.6"
+										imdbURL="http://www.imdb.com/title/tt1441135/?ref_=nv_sr_1"
+										photo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTY1MDg1MjUxMl5BMl5BanBnXkFtZTcwNDc2NTk4Mg@@._V1_UY268_CR9,0,182,268_AL_.jpg" />
+									<recommendation title="Reper" imdbRating="7.9"
+										imdbURL="http://www.imdb.com/title/tt0955322/?ref_=fn_al_tt_1"
+										photo="https://images-na.ssl-images-amazon.com/images/M/MV5BNDYzMDM1NDkwOF5BMl5BanBnXkFtZTcwMDAyMDU1MQ@@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+								</finalAnswer>
+
+								<finalAnswer answer="r62">
+									<recommendation title="Grey’s Anatomy"
+										imdbRating="7.7" imdbURL="http://www.imdb.com/title/tt0413573/?ref_=nv_sr_1"
+										photo="https://images-na.ssl-images-amazon.com/images/M/MV5BYTc3Y2RjY2QtN2ViNC00NDdkLTg2YWMtYWNiZjQzNTg5ZjJlXkEyXkFqcGdeQXVyMzAzNTY3MDM@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+									<recommendation title="Smallville" imdbRating="7.5"
+										imdbURL="http://www.imdb.com/title/tt0279600/?ref_=nv_sr_1"
+										photo="https://images-na.ssl-images-amazon.com/images/M/MV5BMjIwNDQ2MjM5OV5BMl5BanBnXkFtZTcwODU4NzU0NA@@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+									<recommendation title="Without a Trace"
+										imdbRating="6.9" imdbURL="http://www.imdb.com/title/tt0321021/?ref_=nv_sr_2"
+										photo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ4NDY2NTIxNV5BMl5BanBnXkFtZTgwNDczNzgwMzE@._V1_UY268_CR87,0,182,268_AL_.jpg" />
+								</finalAnswer>
+							</question>
+						</answer>
+					</question>
+				</answer>
+				<answer answer="r22">
+					<question question="q3">
+						<answer answer="r31">
+							<question question="q4">
+								<answer answer="r41">
+									<question question="q5">
+										<finalAnswer answer="r51">
+											<recommendation title="American Beauty"
+												imdbRating="8.4"
+												imdbURL="http://www.imdb.com/title/tt0169547/?ref_=nv_sr_1"
+												photo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTQxOTEzMzM1MV5BMl5BanBnXkFtZTgwMDIwNjIwMTE@._V1_UY268_CR3,0,182,268_AL_.jpg" />
+											<recommendation title="Spotlight" imdbRating="8.1"
+												imdbURL="http://www.imdb.com/title/tt1895587/?ref_=nv_sr_1"
+												photo="https://images-na.ssl-images-amazon.com/images/M/MV5BMjIyOTM5OTIzNV5BMl5BanBnXkFtZTgwMDkzODE2NjE@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+										</finalAnswer>
+										<finalAnswer answer="r52">
+											<recommendation title="Trainspotting"
+												imdbRating="8.2"
+												imdbURL="http://www.imdb.com/title/tt0117951/?ref_=nv_sr_4"
+												photo="https://images-na.ssl-images-amazon.com/images/M/MV5BMzA5Zjc3ZTMtMmU5YS00YTMwLWI4MWUtYTU0YTVmNjVmODZhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+											<recommendation title="Fight Club" imdbRating="8.8"
+												imdbURL="http://www.imdb.com/title/tt0137523/?ref_=nv_sr_1"
+												photo="https://images-na.ssl-images-amazon.com/images/M/MV5BZGY5Y2RjMmItNDg5Yy00NjUwLThjMTEtNDc2OGUzNTBiYmM1XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+											<recommendation title="Gone Girl" imdbRating="8.1"
+												imdbURL="http://www.imdb.com/title/tt2267998/?ref_=fn_al_tt_1"
+												photo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTk0MDQ3MzAzOV5BMl5BanBnXkFtZTgwNzU1NzE3MjE@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+										</finalAnswer>
+									</question>
+
+
+								</answer>
+								<answer answer="r42">
+									<question question="q5">
+										<finalAnswer answer="r51">
+											<recommendation title="Interstellar"
+												imdbRating="8.6"
+												imdbURL="http://www.imdb.com/title/tt0816692/?ref_=nv_sr_1"
+												photo="https://images-na.ssl-images-amazon.com/images/M/MV5BMjIxNTU4MzY4MF5BMl5BanBnXkFtZTgwMzM4ODI3MjE@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+											<recommendation title="Braveheart" imdbRating="8.4"
+												imdbURL="http://www.imdb.com/title/tt0112573/?ref_=nv_sr_1"
+												photo="https://images-na.ssl-images-amazon.com/images/M/MV5BNTMyNGE1ODQtYTNiNS00ZTUyLThhZjktMTgyOGZkZThlYTc3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+										</finalAnswer>
+										<finalAnswer answer="r52">
+											<recommendation title="Prisoners" imdbRating="8.1"
+												imdbURL="http://www.imdb.com/title/tt1392214/?ref_=nv_sr_1"
+												photo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTg0NTIzMjQ1NV5BMl5BanBnXkFtZTcwNDc3MzM5OQ@@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+											<recommendation title="The Green Mile"
+												imdbRating="8.5"
+												imdbURL="http://www.imdb.com/title/tt0120689/?ref_=nv_sr_1"
+												photo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_UX182_CR0,0,182,268_AL_.jpg" />
+											<recommendation title="Amores perros"
+												imdbRating="8.1"
+												imdbURL="http://www.imdb.com/title/tt0245712/?ref_=nv_sr_1"
+												photo="https://images-na.ssl-images-amazon.com/images/M/MV5BZjYwYzliYTktMzk3MS00MzE0LTllM2QtMDk3MTFmOGQ2MjE0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+										</finalAnswer>
+									</question>
+								</answer>
+
+
+							</question>
+						</answer>
+						<answer answer="r32">
+							<question question="q6">
+								<finalAnswer answer="r61">
+									<recommendation title="Fargo" imdbRating="9.0"
+										imdbURL="http://www.imdb.com/title/tt2802850/?ref_=nv_sr_1"
+										photo="https://images-na.ssl-images-amazon.com/images/M/MV5BNmNiNDc4MzQtNjFmMC00MzQ1LTkyZjUtODMxN2UyMmYxZmFmXkEyXkFqcGdeQXVyNTMxMjgxMzA@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+									<recommendation title="House of cards"
+										imdbRating="9.0" imdbURL="http://www.imdb.com/title/tt1856010/?ref_=nv_sr_1"
+										photo="https://images-na.ssl-images-amazon.com/images/M/MV5BMjM3ODMyMjc3MV5BMl5BanBnXkFtZTgwNDgzNDc5NzE@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+								</finalAnswer>
+								<recommendation title="The Mentalist" imdbRating="8.1"
+									imdbURL="http://www.imdb.com/title/tt1196946/?ref_=nv_sr_1"
+									photo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ5OTgzOTczM15BMl5BanBnXkFtZTcwMDM2OTY4MQ@@._V1_UY268_CR9,0,182,268_AL_.jpg" />
+								<recommendation title="Mad Men" imdbRating="8.6"
+									imdbURL="http://www.imdb.com/title/tt0804503/?ref_=nv_sr_2"
+									photo="https://images-na.ssl-images-amazon.com/images/M/MV5BMjMwNzk5Nzg2OV5BMl5BanBnXkFtZTgwMjg1OTk1NDE@._V1_UY268_CR1,0,182,268_AL_.jpg" />
+
+								<finalAnswer answer="r62">
+
+								</finalAnswer>
+							</question>
+						</answer>
+					</question>
+				</answer>
+			</question>
 		</answer>
 	</question>
 </movies>
