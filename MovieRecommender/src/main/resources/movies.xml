@@ -1,18 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <movies>
-	<question question="Ce gen de filme iti place sa urmaresti?">
-		<answer answer="Actiune">
-			<question question="Alegeti una din categoriile de rating">
-				<finalAnswer answer = "Sub nota 8">
-					<recomandation title="Titanic" imdbRating = "8.2" imdbURL ="www.imdb.com/Titanic" photo = "a.jpg">Descrtiption</recomandation>
-				</finalAnswer>
-				<answer answer = "Peste nota 8">
-				</answer>
-			</question>
+	<question question="q1">
+		<finalAnswer answer="r11">
+			<recommendation title="Titanic" imdbRating="8.2"
+				imdbURL="www.imdb.com/Titanic" photo="a.jpg">Descrtiption</recommendation>
+		</finalAnswer>
+		<answer answer="r12">
 		</answer>
-		<answer answer="Comedie">
-		</answer>
-		<answer answer="Drama">
+		<answer answer="r13">
 		</answer>
 	</question>
 </movies>

@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movies>
+	<question question="1.Ce gen de filme iti place sa urmaresti?">
+		<answer answer="1.1.Actiune">
+			<question question="2.Alegeti una din categoriile de rating">
+				<answer answer="2.1.Sub nota 8">
+					<question question="3.Alege una din urmatoarele variante">
+						<answer answer="3.1.Film Artistic">
+							<question question="4. A castigat filmul OSCAR ?">
+								<answer answer="4.1 Da">
+									<question question="5.Alege Durata filmului">
+										<finalAnswer answer="5.1. 1:30-2:30">
+											
+										</finalAnswer>
+										<finalAnswer answer="5.2. > 2:30">
+											
+										</finalAnswer>
+									</question>
+								
+								
+								</answer>
+								<answer answer="4.2 Nu">
+									<question question="5.Alege Durata filmului">
+										<finalAnswer answer="pula mea">
+											<recommendation title="Dilly House 3" imdbRating="6.4"
+											imdbURL="" photo="">""</recommendation>
+										</finalAnswer>
+										<finalAnswer answer="5.2. > 2:30">
+											<recommendation title="Dilly House 2" imdbRating="8.2"
+											imdbURL="" photo="">""</recommendation>
+										</finalAnswer>
+									</question>
+								</answer>
+
+
+							</question>
+						</answer>
+						<answer answer="3.2.Serial">
+							<question question="6. Alege numar de sezoane">
+								<finalAnswer answer="6.1 less then 5 sezoane">
+								
+								</finalAnswer>
+								
+								<finalAnswer answer="6.2 bigger then 5 sezoane">
+								
+								</finalAnswer>
+							</question>
+						</answer>
+					</question>		
+				</answer>
+				<answer answer="Peste nota 8">
+					<question question="3.Alege una din urmatoarele variante">
+						<answer answer="3.1.Film Artistic">
+							<question question="4. A castigat filmul OSCAR ?">
+								<answer answer="4.1 Da">
+									<question question="5.Alege Durata filmului">
+										<finalAnswer answer="5.1. 1:30-2:30">
+		
+										</finalAnswer>
+										<finalAnswer answer="5.2. > 2:30">
+											<recommendation title="Titanic" imdbRating="8.2"
+											imdbURL="www.imdb.com/Titanic" photo="a.jpg">""</recommendation>
+										</finalAnswer>
+									</question>
+								
+								
+								</answer>
+								<answer answer="4.2 Nu">
+									<question question="5.Alege Durata filmului">
+										<finalAnswer answer="5.1. 1:30-2:30">
+		
+										</finalAnswer>
+										<finalAnswer answer="5.2. > 2:30">
+											<recommendation title="Titanic" imdbRating="8.2"
+											imdbURL="www.imdb.com/Titanic" photo="a.jpg">""</recommendation>
+										</finalAnswer>
+									</question>
+								</answer>
+
+
+							</question>
+						</answer>
+						<answer answer="3.2.Serial">
+							<question question="6. Alege numar de sezoane">
+								<finalAnswer answer="6.1 less then 5 sezoane">
+								<recommendation title="Titanic" imdbRating="8.2"
+											imdbURL="www.imdb.com/Titanic" photo="a.jpg">""</recommendation>
+								</finalAnswer>
+								
+								<finalAnswer answer="6.2 >5 sezoane">
+								
+								</finalAnswer>
+							</question>
+						</answer>
+					</question>	
+				</answer>
+			</question>
+		</answer>
+		
+		<answer answer="1.2.Comedie">
+			<question question="2.Alegeti una din categoriile de rating">
+				<answer answer="2.1.Sub nota 8">
+					<question question="3.Alege una din urmatoarele variante">
+						<answer answer="3.1.Film Artistic">
+							<question question="4. A castigat filmul OSCAR ?">
+								<answer answer="4.1 Da">
+									<question question="5.Alege Durata filmului">
+										<finalAnswer answer="5.1. 1:30-2:30">
+											<recommendation title="The Big Short" imdbRating="7.8"
+												imdbURL="http://www.imdb.com/title/tt1596363/?ref_=nv_sr_1"
+												photo="http://www.imdb.com/title/tt1596363/mediaviewer/rm3249474304">""</recommendation>
+											<recommendation title="Birdman or (The Unexpected Virtue of Ignorance)" imdbRating="7.8"
+												imdbURL="http://www.imdb.com/title/tt2562232/?ref_=nv_sr_1"
+												photo="http://www.imdb.com/title/tt2562232/mediaviewer/rm3926180864?ref_=tt_ov_i">""</recommendation>
+											<recommendation title="Descendants" imdbRating="6.4"
+												imdbURL="http://www.imdb.com/title/tt3440298/?ref_=nv_sr_3"
+												photo="http://www.imdb.com/title/tt3440298/mediaviewer/rm2412442880?ref_=tt_ov_i">""</recommendation>
+										</finalAnswer>
+										<finalAnswer answer="5.2. > 2:30">
+											<recommendation title="Superbad" imdbRating="7.6"
+												imdbURL="http://www.imdb.com/title/tt0829482/?ref_=nv_sr_1"
+												photo="http://www.imdb.com/title/tt0829482/mediaviewer/rm1868010240?ref_=tt_ov_i">""</recommendation>
+											<recommendation title="The Nice Guys " imdbRating="7.4"
+												imdbURL="http://www.imdb.com/title/tt3799694/?ref_=nv_sr_1"
+												photo="http://www.imdb.com/title/tt3799694/mediaviewer/rm2102452224?ref_=tt_ov_i">""</recommendation>
+											<recommendation title="The Hangover" imdbRating="7.6"
+												imdbURL="http://www.imdb.com/title/tt1119646/?ref_=nv_sr_1"
+												photo="http://www.imdb.com/title/tt1119646/mediaviewer/rm3120597760?ref_=tt_ov_i">""</recommendation>
+										</finalAnswer>
+									</question>
+								
+								
+								</answer>
+								<answer answer="4.2 Nu">
+									<question question="5.Alege Durata filmului">
+										<finalAnswer answer="5.1. 1:30-2:30">
+											<recommendation title="The Imbeciles" imdbRating="3.2"
+												imdbURL="" photo="">""</recommendation>
+										</finalAnswer>
+										<finalAnswer answer="5.2. > 2:30">
+											<recommendation title="The Imbeciles 2" imdbRating="8.2"
+											imdbURL="" photo="">""</recommendation>
+										</finalAnswer>
+									</question>
+								</answer>
+
+
+							</question>
+						</answer>
+						<answer answer="3.2.Serial">
+							<question question="6. Alege numar de sezoane">
+								<finalAnswer answer="6.1 less then 5 sezoane">
+								<recommendation title="The O.C" imdbRating="7.5"
+											imdbURL="http://www.imdb.com/title/tt0362359/?ref_=nv_sr_1" photo="http://www.imdb.com/title/tt0362359/mediaviewer/rm124197120?ref_=tt_ov_i">""</recommendation>
+								<recommendation title="Raising Hope" imdbRating="8.0"
+											imdbURL="http://www.imdb.com/title/tt1615919/?ref_=nv_sr_1" photo="http://www.imdb.com/title/tt1615919/mediaviewer/rm1492303104?ref_=tt_ov_i">""</recommendation>
+								<recommendation title="Joey" imdbRating="6.0"
+											imdbURL="http://www.imdb.com/title/tt0375355/?ref_=fn_al_tt_1" photo="http://www.imdb.com/title/tt0375355/mediaviewer/rm445488384?ref_=tt_ov_i">""</recommendation>						
+								</finalAnswer>
+								
+								<finalAnswer answer="6.2 >5 sezoane">
+								<recommendation title="Two and a Half Man" imdbRating="7.1"
+											imdbURL="http://www.imdb.com/title/tt0369179/?ref_=nv_sr_1" photo="http://www.imdb.com/title/tt0375355/mediaviewer/rm445488384?ref_=tt_ov_i">""</recommendation>						
+								<recommendation title="Weeds" imdbRating="8.0"
+											imdbURL="http://www.imdb.com/title/tt0439100/?ref_=nv_sr_1" photo="http://www.imdb.com/title/tt0439100/mediaviewer/rm748130816?ref_=tt_ov_i">""</recommendation>						
+								<recommendation title="3rd Rock From Sun" imdbRating="7.8"
+											imdbURL="http://www.imdb.com/title/tt0115082/?ref_=nv_sr_1" photo="http://www.imdb.com/title/tt0115082/mediaviewer/rm1398159616?ref_=tt_ov_i">""</recommendation>						
+								</finalAnswer>
+							</question>
+						</answer>
+					</question>		
+				</answer>
+				<answer answer="2.2.Peste nota 8">
+					<question question="3.Alege una din urmatoarele variante">
+						<answer answer="3.1.Film Artistic">
+							<question question="4. A castigat filmul OSCAR ?">
+								<answer answer="4.1 Da">
+									<question question="5.Alege Durata filmului">
+										<finalAnswer answer="5.1. 1:30-2:30">
+											<recommendation title="Utopia" imdbRating="8.5"
+												imdbURL="http://www.imdb.com/title/tt2384811/?ref_=nv_sr_1" photo="http://www.imdb.com/title/tt2384811/mediaviewer/rm998949120?ref_=tt_ov_i">""</recommendation>
+											<recommendation title="Forest Gump" imdbRating="8.5"
+												imdbURL="http://www.imdb.com/title/tt0109830/?ref_=nv_sr_2" photo="http://www.imdb.com/title/tt0109830/mediaviewer/rm2864190720?ref_=tt_ov_i">""</recommendation>
+											<recommendation title="The Grand Budapest Hotel" imdbRating="8.5"
+												imdbURL="http://www.imdb.com/title/tt2278388/?ref_=nv_sr_1" photo="http://www.imdb.com/title/tt2278388/mediaviewer/rm1834474496?ref_=tt_ov_i">""</recommendation>
+										</finalAnswer>
+										<finalAnswer answer="5.2. > 2:30">
+											<recommendation title="Dead Pool" imdbRating ="6.4"
+											imdbURL="Deadpool" photo="Deadpool">""</recommendation>
+											<recommendation title="Snetch" imdbRating="6.4"
+											imdbURL="Snetch" photo="Snetch">""</recommendation>		
+										</finalAnswer>
+									</question>
+								
+								
+								</answer>
+								<answer answer="4.2 Nu">
+									<question question="5.Alege Durata filmului">
+										<finalAnswer answer="5.1. 1:30-2:30">
+											<recommendation title="Cucu bau" imdbRating="8.2"
+												imdbURL="NA" photo="NA">""</recommendation>
+										</finalAnswer>
+										<finalAnswer answer="5.2. > 2:30">
+											<recommendation title="The Wolf of the Wall Street" imdbRating="8.2"
+											imdbURL="http://www.imdb.com/title/tt0993846/?ref_=nv_sr_1" photo="http://www.imdb.com/title/tt0993846/mediaviewer/rm2842940160?ref_=tt_ov_i">""</recommendation>
+										</finalAnswer>
+									</question>
+								</answer>
+
+
+							</question>
+						</answer>
+						<answer answer="3.2.Serial">
+							<question question="6. Alege numar de sezoane">
+								<finalAnswer answer="6.1 less then 5 sezoane">
+									<recommendation title="Master of None " imdbRating="8.2"
+												imdbURL="http://www.imdb.com/title/tt4635276/?ref_=nv_sr_1" photo="http://www.imdb.com/title/tt4635276/mediaviewer/rm2513691136?ref_=tt_ov_i">""</recommendation>
+									<recommendation title="Chuck " imdbRating="8.2"
+												imdbURL="http://www.imdb.com/title/tt0934814/?ref_=nv_sr_1" photo="http://www.imdb.com/title/tt0934814/mediaviewer/rm3534195968?ref_=tt_ov_i">""</recommendation>
+									<recommendation title="Mr. Bean" imdbRating="8.2"
+												imdbURL="http://www.imdb.com/title/tt0096657/?ref_=nv_sr_1" photo="http://www.imdb.com/title/tt0096657/mediaviewer/rm4056482304?ref_=tt_ov_i">""</recommendation>
+								</finalAnswer>
+								
+								<finalAnswer answer="6.2 >5 sezoane">
+								<recommendation title="Suits " imdbRating="8.2"
+												imdbURL="http://www.imdb.com/title/tt4635276/?ref_=nv_sr_1" photo="http://www.imdb.com/title/tt4635276/mediaviewer/rm2513691136?ref_=tt_ov_i">""</recommendation>
+								<recommendation title="The Big Bang Theory " imdbRating="8.2"
+												imdbURL="http://www.imdb.com/title/tt1632701/?ref_=nv_sr_1" photo="http://www.imdb.com/title/tt1632701/mediaviewer/rm1720503296?ref_=tt_ov_i">""</recommendation>
+									
+								</finalAnswer>
+							</question>
+						</answer>
+					</question>	
+				</answer>
+			</question>
+		</answer>
+		
+		<answer answer="1.3.Drama">
+			<question question="2.Alegeti una din categoriile de rating">
+				<answer answer="2.1.Sub nota 8">
+					<question question="3.Alege una din urmatoarele variante">
+						<answer answer="3.1.Film Artistic">
+							<question question="4. A castigat filmul OSCAR ?">
+								<answer answer="4.1 Da">
+									<question question="5.Alege Durata filmului">
+										<finalAnswer answer="5.1. 1:30-2:30">
+		
+										</finalAnswer>
+										<finalAnswer answer="5.2. > 2:30">
+											<recommendation title="Titanic" imdbRating="8.2"
+											imdbURL="www.imdb.com/Titanic" photo="a.jpg">""</recommendation>
+										</finalAnswer>
+									</question>
+								
+								
+								</answer>
+								<answer answer="4.2 Nu">
+									<question question="5.Alege Durata filmului">
+										<finalAnswer answer="5.1. 1:30-2:30">
+		
+										</finalAnswer>
+										<finalAnswer answer="5.2. > 2:30">
+											<recommendation title="Titanic" imdbRating="8.2"
+											imdbURL="www.imdb.com/Titanic" photo="a.jpg">""</recommendation>
+										</finalAnswer>
+									</question>
+								</answer>
+
+
+							</question>
+						</answer>
+						<answer answer="3.2.Serial">
+							<question question="6. Alege numar de sezoane">
+								<finalAnswer answer="6.1 less then 5 sezoane">
+								<recommendation title="Titanic" imdbRating="8.2"
+											imdbURL="www.imdb.com/Titanic" photo="a.jpg"></recommendation>
+								</finalAnswer>
+								
+								<finalAnswer answer="6.2 >5 sezoane">
+								
+								</finalAnswer>
+							</question>
+						</answer>
+					</question>		
+				</answer>
+				<answer answer="Peste nota 8">
+					<question question="3.Alege una din urmatoarele variante">
+						<answer answer="3.1.Film Artistic">
+							<question question="4. A castigat filmul OSCAR ?">
+								<answer answer="4.1 Da">
+									<question question="5.Alege Durata filmului">
+										<finalAnswer answer="5.1. 1:30-2:30">
+		
+										</finalAnswer>
+										<finalAnswer answer="5.2. > 2:30">
+											<recommendation title="Titanic" imdbRating="8.2"
+											imdbURL="www.imdb.com/Titanic" photo="a.jpg">""</recommendation>
+										</finalAnswer>
+									</question>
+								
+								
+								</answer>
+								<answer answer="4.2 Nu">
+									<question question="5.Alege Durata filmului">
+										<finalAnswer answer="5.1. 1:30-2:30">
+		
+										</finalAnswer>
+										<finalAnswer answer="5.2. > 2:30">
+											<recommendation title="Titanic" imdbRating="8.2"
+											imdbURL="www.imdb.com/Titanic" photo="a.jpg">""</recommendation>
+										</finalAnswer>
+									</question>
+								</answer>
+
+
+							</question>
+						</answer>
+						<answer answer="3.2.Serial">
+							<question question="6. Alege numar de sezoane">
+								<finalAnswer answer="6.1 less then 5 sezoane">
+								<recommendation title="Titanic" imdbRating="8.2"
+											imdbURL="www.imdb.com/Titanic" photo="a.jpg">""</recommendation>
+								</finalAnswer>
+								
+								<finalAnswer answer="6.2 >5 sezoane">
+								
+								</finalAnswer>
+							</question>
+						</answer>
+					</question>	
+				</answer>
+			</question>
+		</answer>
+	</question>
+</movies>
