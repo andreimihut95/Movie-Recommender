@@ -1,6 +1,5 @@
 <?xml version=1.0 encoding="UTF-8">
 <movies>
-
 <rootQuestion question="q1" />
 <rules>
   <rule if="q1" then="a1" state="Action" />
@@ -11,5 +10,4 @@
   <rule if="a3" then="q3" />
   <rule if="q2" then="a21" state="ActionMovie" />
 </rules>
-
 </movies>
