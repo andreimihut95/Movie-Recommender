@@ -1,6 +1,7 @@
 <?xml version=1.0 encoding="UTF-8">
 
 <rules>
+  <rootQuestion question="q1" />
   <rule if="q1" then="a1" state="Action" />
   <rule if="q1" then="a2" state="Comedy" />
   <rule if="q1" then="a3" state="Drama" />
