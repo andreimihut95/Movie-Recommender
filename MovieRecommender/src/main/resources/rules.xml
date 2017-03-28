@@ -7,5 +7,5 @@
   <rule if="a1" then="q2" />
   <rule if="a2" then="q2" />
   <rule if="a3" then="q3" />
-  <rule if="q2" then="a21" state="Action&Movie" />
+  <rule if="q2" then="a21" state="ActionMovie" />
 </rules>
