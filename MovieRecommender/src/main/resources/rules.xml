@@ -1,13 +1,13 @@
 <?xml version=1.0 encoding="UTF-8">
 <movies>
-<rootQuestion question="q1" />
-<rules>
-  <rule if="q1" then="a1" state="Action" />
-  <rule if="q1" then="a2" state="Comedy" />
-  <rule if="q1" then="a3" state="Drama" />
-  <rule if="a1" then="q2" />
-  <rule if="a2" then="q2" />
-  <rule if="a3" then="q3" />
-  <rule if="q2" then="a21" state="ActionMovie" />
-</rules>
+  <rootQuestion question="q1" />
+  <rules>
+    <rule if="q1" then="a1" state="Action" />
+    <rule if="q1" then="a2" state="Comedy" />
+    <rule if="q1" then="a3" state="Drama" />
+    <rule if="a1" then="q2" />
+    <rule if="a2" then="q2" />
+    <rule if="a3" then="q3" />
+    <rule if="q2" then="a21" state="ActionMovie" />
+  </rules>
 </movies>
