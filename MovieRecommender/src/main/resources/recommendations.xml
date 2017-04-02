@@ -1,4 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <recommendations>
-  <recommendation title="The Last of the Mohicans" imdbRating="7.8" imdbURL="http://www.imdb.com/title/tt0104691/" photo="a.jpg" state="ActionMovie">Description1</recommendation>
+	<if state="Action-PesteNota8-FilmArtistic-FilmScurt-DaOscar">
+		<recommendation title="The Last of the Mohicans"
+			imdbRating="7.8" imdbURL="http://www.imdb.com/title/tt0104691/"
+			photo="a.jpg">Description1</recommendation>
+	</if>
+	<if state="Comedy-Serial">
+		<recommendation title="The Last of the Mohicans COmedie"
+			imdbRating="7.8" imdbURL="http://www.imdb.com/title/tt0104691/"
+			photo="a.jpg">Description1</recommendation>
+	</if>
+	<if state="Drama">
+		<recommendation title="The Last of the Mohicans Drama"
+			imdbRating="7.8" imdbURL="http://www.imdb.com/title/tt0104691/"
+			photo="a.jpg">Description1</recommendation>
+	</if>
+	<if state="Action-Movie-Pestenota8">
+		<recommendation title="The Last of the Mohicans"
+			imdbRating="7.8" imdbURL="http://www.imdb.com/title/tt0104691/"
+			photo="a.jpg">Description1</recommendation>
+	</if>
+	<if state="Action-Movie-Pestenota8">
+		<recommendation title="The Last of the Mohicans"
+			imdbRating="7.8" imdbURL="http://www.imdb.com/title/tt0104691/"
+			photo="a.jpg">Description1</recommendation>
+	</if>
 </recommendations>
