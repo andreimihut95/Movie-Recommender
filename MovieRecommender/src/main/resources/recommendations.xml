@@ -1,28 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <recommendations>
-	<if state="Action-PesteNota8-FilmArtistic-FilmScurt-DaOscar">
-		<recommendation title="The Last of the Mohicans"
-			imdbRating="7.8" imdbURL="http://www.imdb.com/title/tt0104691/"
-			photo="a.jpg">Description1</recommendation>
+	<if state="Actiune-PesteNota8-FilmArtistic-FilmScurt-DaOscar">
+		<recommendation title="The borne ultimatum(Actiune)"
+			imdbRating="8.1" imdbURL="http://www.imdb.com/title/tt0440963/?ref_=nv_sr_1"
+			photo="https://images-na.ssl-images-amazon.com/images/M/MV5BNGNiNmU2YTMtZmU4OS00MjM0LTlmYWUtMjVlYjAzYjE2N2RjXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UX182_CR0,0,182,268_AL_.jpg" />
 	</if>
-	<if state="Comedy-Serial">
-		<recommendation title="The Last of the Mohicans COmedie"
-			imdbRating="7.8" imdbURL="http://www.imdb.com/title/tt0104691/"
-			photo="a.jpg">Description1</recommendation>
+	<if state="Actiune-PesteNota8-FilmArtistic-FilmScurt-DaOscar">
+		<recommendation title="Inception(Actiune)" imdbRating="8.8"
+			imdbURL="http://www.imdb.com/title/tt1375666/?ref_=nv_sr_1"
+			photo="https://images-na.ssl-images-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+
 	</if>
-	<if state="Drama">
-		<recommendation title="The Last of the Mohicans Drama"
-			imdbRating="7.8" imdbURL="http://www.imdb.com/title/tt0104691/"
-			photo="a.jpg">Description1</recommendation>
+	<if state="Actiune-SubNota8-FilmArtistic-FilmScurt-DaOscar">
+		<recommendation title="Indiana Jones and the last cursade(Actiune)"
+			imdbRating="7.5" imdbURL="http://www.imdb.com/title/tt0097576/?ref_=nv_sr_1"
+			photo="https://images-na.ssl-images-amazon.com/images/M/MV5BNGNiNmU2YTMtZmU4OS00MjM0LTlmYWUtMjVlYjAzYjE2N2RjXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+
 	</if>
-	<if state="Action-Movie-Pestenota8">
-		<recommendation title="The Last of the Mohicans"
-			imdbRating="7.8" imdbURL="http://www.imdb.com/title/tt0104691/"
-			photo="a.jpg">Description1</recommendation>
+	<if state="Drama-PesteNota8-FilmArtistic-FilmLung-DaOscar">
+		<recommendation title="Batman Begins(Drama)"
+			imdbRating="8.3" imdbURL="http://www.imdb.com/title/tt0372784/?ref_=nv_sr_3"
+			photo="https://images-na.ssl-images-amazon.com/images/M/MV5BNTM3OTc0MzM2OV5BMl5BanBnXkFtZTYwNzUwMTI3._V1_UX182_CR0,0,182,268_AL_.jpg" />
 	</if>
-	<if state="Action-Movie-Pestenota8">
-		<recommendation title="The Last of the Mohicans"
-			imdbRating="7.8" imdbURL="http://www.imdb.com/title/tt0104691/"
-			photo="a.jpg">Description1</recommendation>
+
+	<if state="Drama-PesteNota8-FilmArtistic-FilmScurt-NuOscar">
+		<recommendation title="District 9" imdbRating="8.0"
+			imdbURL="http://www.imdb.com/title/tt1136608/?ref_=nv_sr_1"
+			photo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTM4OTI1OTM5NF5BMl5BanBnXkFtZTcwMzk5MTU1Mg@@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+
+	</if>
+
+	<if state="Drama-SubNota8-FilmArtistic-FilmScurt-NuOscar">
+		<recommendation title="V for Vendetta" imdbRating="7.9"
+			imdbURL="http://www.imdb.com/title/tt0434409/?ref_=nv_sr_1"
+			photo="https://images-na.ssl-images-amazon.com/images/M/MV5BOTI5ODc3NzExNV5BMl5BanBnXkFtZTcwNzYxNzQzMw@@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+	</if>
+
+	<if state="Comedie-PesteNota8-FilmArtistic-FilmLung-DaOscar">
+		<recommendation title="The Wolf of the Wall Street"
+			imdbRating="8.2" imdbURL="http://www.imdb.com/title/tt0993846/?ref_=nv_sr_1"
+			photo="http://www.imdb.com/title/tt0993846/mediaviewer/rm2842940160?ref_=tt_ov_i" />
+	</if>
+
+	<if state="Comedie-PesteNota8-FilmArtistic-FilmLung-NuOscar">
+		<recommendation title="Mr. Bean" imdbRating="8.2"
+			imdbURL="http://www.imdb.com/title/tt0096657/?ref_=nv_sr_1"
+			photo="http://www.imdb.com/title/tt0096657/mediaviewer/rm4056482304?ref_=tt_ov_i" />
+	</if>
+
+	<if state="Comedie-SubNota8-FilmArtistic-FilmScurt-NuOscar">
+		<recommendation title="Chuck " imdbRating="7.8"
+			imdbURL="http://www.imdb.com/title/tt0934814/?ref_=nv_sr_1"
+			photo="http://www.imdb.com/title/tt0934814/mediaviewer/rm3534195968?ref_=tt_ov_i" />
+	</if>
+
+	<if state="Actiune-PesteNota8-Serial-Peste5">
+		<recommendation title="Prison Break" imdbRating="8.5"
+			imdbURL="http://www.imdb.com/title/tt0455275/?ref_=nv_sr_1"
+			photo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTg3NTkwNzAxOF5BMl5BanBnXkFtZTcwMjM1NjI5MQ@@._V1_UY268_CR0,0,182,268_AL_.jpg" />
+	</if>
+
+	<if state="Actiune-SubNota8-Serial-Peste5">
+		<recommendation title="CSI: Miami" imdbRating="6.4"
+			imdbURL="http://www.imdb.com/title/tt0313043/?ref_=nv_sr_1"
+			photo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTc5Mjc5NDM3Ml5BMl5BanBnXkFtZTcwNDk0ODEzMQ@@._V1_UY268_CR7,0,182,268_AL_.jpg" />
+	</if>
+	<if state="Drama-SubNota8-Serial-Peste5">
+		<recommendation title="Grey’s Anatomy" imdbRating="7.7"
+			imdbURL="http://www.imdb.com/title/tt0413573/?ref_=nv_sr_1"
+			photo="https://images-na.ssl-images-amazon.com/images/M/MV5BYTc3Y2RjY2QtN2ViNC00NDdkLTg2YWMtYWNiZjQzNTg5ZjJlXkEyXkFqcGdeQXVyMzAzNTY3MDM@._V1_UX182_CR0,0,182,268_AL_.jpg" />
+	</if>
+	<if state="Comedie-PesteNota8-Serial-Peste5">
+		<recommendation title="The Big Bang Theory" imdbRating="9.0"
+			imdbURL="http://www.imdb.com/title/tt2802850/?ref_=nv_sr_1"
+			photo="https://images-na.ssl-images-amazon.com/images/M/MV5BNmNiNDc4MzQtNjFmMC00MzQ1LTkyZjUtODMxN2UyMmYxZmFmXkEyXkFqcGdeQXVyNTMxMjgxMzA@._V1_UX182_CR0,0,182,268_AL_.jpg" />
 	</if>
 </recommendations>

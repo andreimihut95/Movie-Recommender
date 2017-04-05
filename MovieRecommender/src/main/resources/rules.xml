@@ -2,8 +2,8 @@
 <movies>
 	<rootQuestion question="q1" />
 	<rules>
-		<rule if="q1" then="r11" state="Action" />
-		<rule if="q1" then="r12" state="Comedy" />
+		<rule if="q1" then="r11" state="Actiune" />
+		<rule if="q1" then="r12" state="Comedie" />
 		<rule if="q1" then="r13" state="Drama" />
 		<rule if="r11" then="q2"  />
 		<rule if="r12" then="q2"  />
@@ -30,8 +30,8 @@
 		<rule if="q5" then="r51" state="FilmScurt" />
 		<rule if="q5" then="r52" state="FilmLung" />
 		
-		<rule if="q6" then="r61" state="Peste5" />
-		<rule if="q6" then="r62" state="Sub5" />
+		<rule if="q6" then="r61" state="Sub5" />
+		<rule if="q6" then="r62" state="Peste5" />
 		
 		
 	</rules>
